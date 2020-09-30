@@ -1,2 +1,3 @@
 # TerVer
 Nebonatnay khen'
+[Теория РК](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7e253947-17af-415e-aa2c-6f26cff51966/_1___.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20200928%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20200928T081450Z&X-Amz-Expires=86400&X-Amz-Signature=39a736ad5140b2f0dfdc21389a3d0790346055608f2b69b47a984bb508e7d76e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%255B%25D0%25A2%25D0%2592%255D%2520%25D0%25A0%25D0%259A1%2520%25D0%2592%25D0%25BE%25D0%25BF%25D1%2580%25D0%25BE%25D1%2581%25D1%258B%2520%25D0%25B8%2520%25D0%25BE%25D1%2582%25D0%25B2%25D0%25B5%25D1%2582%25D1%258B.pdf%22)
